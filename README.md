@@ -52,3 +52,9 @@ sendMessage($chat_id, "Hello World"); //send to $chat_id(id of user) message Hel
 }
 
 ```
+# Disclaimer 
+
+To check if the generated url is correctly connected to your Amazon account you can go [here](https://affiliate-program.amazon.com/home/tools/linkchecker?ac-ms-src=ac-nav).
+
+
+
