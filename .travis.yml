@@ -1,2 +1,4 @@
 language: php
-php class.php
+php:
+  - 7.1.9
+script: php class.php
