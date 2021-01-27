@@ -1,7 +1,7 @@
 # Amazon-Ref-Links-Generator-Bot
 
 [![API](https://img.shields.io/badge/Telegram%20Bot%20API-November%2020%2C%202020-36ade1.svg)](https://core.telegram.org/bots/api)
-![PHP](https://img.shields.io/badge/php-%3E%3D5.3-8892bf.svg)
+![PHP](https://img.shields.io/badge/php-%3E%3D5.6-8892bf.svg)
 ![Build](https://travis-ci.com/EddyDevProject/Amazon-Ref-Links-Generator-Bot.svg?branch=main)
 
 
